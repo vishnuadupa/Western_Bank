@@ -18,7 +18,7 @@ Our goal is to build a user-friendly, functional banking system prototype that d
 ## Technologies
 The Western Bank Portal is built with the following technologies:
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Flask framework)
+- **Backend**: Java
 - **Database**: SQLite for managing user and transaction data
 - **Version Control**: Git and GitHub for project management and collaboration
 
