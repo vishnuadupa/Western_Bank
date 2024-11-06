@@ -5,7 +5,7 @@
     <title>Bank Login</title>
 </head>
 <body>
-    <h1>Welcome to the Bank</h1>
+    <h1>Welcome to wESTERN Bank</h1>
     <a href="login.jsp">Login</a>
 </body>
 </html>
